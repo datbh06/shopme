@@ -1,4 +1,4 @@
-# Shopme Ecommerce Website
+# Shopme E-commerce Website
 
 This project is a complete shopping website developed using Java, Spring Boot, Thymeleaf, Bootstrap, jQuery and MySQL database. 
 
